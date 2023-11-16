@@ -13,11 +13,16 @@
 [[main]]
   name = "Simple ideas"
   pageRef = "posts"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "More info"
   pageRef = "more-info"
+  weight = 20
+
+[[main]]
+  name = "Work"
+  pageRef = "work"
   weight = 10
 
 # [[main]]
