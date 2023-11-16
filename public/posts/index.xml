@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ideas on Giacomo Sepe</title>
+    <link>/posts/</link>
+    <description>Recent content in Ideas on Giacomo Sepe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>third post</title>
+      <link>/posts/third-post/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/third-post/</guid>
+      <description>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla in autem id alias dolore sint praesentium vero deleniti illo temporibus nostrum laudantium blanditiis obcaecati eligendi, accusamus porro natus earum quaerat incidunt.</description>
+    </item>
+    <item>
+      <title>second post</title>
+      <link>/posts/second-post/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/second-post/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores perspiciatis omnis tempora temporibus? Nesciunt, voluptatem. Quaerat reprehenderit, eligendi natus soluta beatae quisquam, iusto dolorum, voluptate laboriosam voluptatum commodi dolore voluptas?</description>
+    </item>
+    <item>
+      <title>Live like Google</title>
+      <link>/posts/live-like-google/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/live-like-google/</guid>
+      <description>I woke up this morning with this crazy idea and I decided to write about it, without too much research. and without having the article reviewed.</description>
+    </item>
+    <item>
+      <title>test post</title>
+      <link>/posts/for-posts-here/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/posts/for-posts-here/</guid>
+      <description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut tempore nihil ducimus accusantium repellat pariatur qui perferendis ipsa provident quas unde, vel aspernatur fuga fugit culpa voluptatem eum nulla non.</description>
+    </item>
+  </channel>
+</rss>
