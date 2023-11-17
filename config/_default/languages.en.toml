@@ -14,8 +14,8 @@ title = "Giacomo Sepe"
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Entrepreneur | Creating media products for Small and Medium Enterprises"
-  bio = "Building a portfolio of services and tools that help shareholders and entrepreneurs develop brand and grow revenue"
+  headline = "Entrepreneur | Developing solutions for growing companies to build digital assets"
+  bio = "Offering tools and services that support companies in creating reputation and revenue generating digital assets"
   links = [
     { email = "mailto:giacomo@ianuscapital.com" },
     { link = "https://giacomosepe.substack.com/" },

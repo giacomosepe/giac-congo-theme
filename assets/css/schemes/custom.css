@@ -16,3 +16,10 @@ header > h1 {
 body {
 	background-color: rgba(var(--color-primary-800));
 }
+nav > div > a {
+	color: rgba(var(--color-primary-500));
+}
+
+nav > div > a:hover {
+	text-decoration: none;
+}
