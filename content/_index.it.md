@@ -1,8 +1,8 @@
 ---
-title: Giacomo Sepe | Fatturato da asset e media digitali
+title: Giacomo Sepe | Monetizzare media digitali
 ---
 
-Impeganto a realizzare strumenti e servizi che supportano imprenditori di PMI nella creazione di reputazione e asset digitali monetizzabili
+Impeganto a realizzare strumenti e servizi che supportano imprenditori di PMI nella creazione di reputazione e asset media digitali monetizzabili
 
  <!-- 
 Developing a set of solutions for daring shareholders who are ready to build iconic digital and media assets that generate additional revenue or improve reputation and brand perception
