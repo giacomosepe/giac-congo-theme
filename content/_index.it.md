@@ -1,5 +1,5 @@
 ---
-title: Digital products for SMEs
+title: Giacomo Sepe | Fatturato da asset e media digitali
 ---
 
 Impeganto a realizzare strumenti e servizi che supportano imprenditori di PMI nella creazione di reputazione e asset digitali monetizzabili

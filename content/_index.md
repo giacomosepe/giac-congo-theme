@@ -1,5 +1,5 @@
 ---
-title: Digital products for SMEs
+title: Giacomo Sepe | Digital and media assets monetization
 ---
 
 Developing a set of solutions for daring shareholders who are ready to build iconic digital and media assets that generate additional revenue or improve reputation and brand perception
