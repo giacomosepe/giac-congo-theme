@@ -9,6 +9,20 @@ date: 2019
 ---
 
 _2019 - 2021 Milan:_
-dignissimos quaerat sequi! Nihil tenetur architecto quis dicta, dolorem sit ducimus magni praesentium earum tempora est eius quos facilis voluptate maxime explicabo deleniti ab nostrum! Cupiditate rerum nostrum aperiam ipsam fugiat ea facere temporibus corrupti? Iure maiores possimus, rerum corrupti quidem mollitia hic amet numquam voluptatem deleniti quaerat. Voluptate temporibus exercitationem cumque. Quis maxime dolores expedita sed! Exercitationem accusamus at quae vero eius autem quis maxime voluptatum explicabo facilis enim magni blanditiis, dignissimos modi repellendus ipsam mollitia ad cupiditate quasi est architecto. Quisquam, adipisci earum! Similique, dolorum debitis.
+Nel 2018 Cotolicious, una catena di vendita al dettaglio di prodotti alimentari a Milano, aveva raggiunto un plateau di ricavi e faticava a crescere ulteriormente. Aveva 4 negozi fisici e vendeva online tramite società di consegna che prendevano quasi il 35% delle fatture come commissione.
+
+## La sfida
+
+L'azienda doveva trovare un modo per aumentare sia i ricavi che i margini, dato che le società di consegna stavano succhiando via tutti i loro profitti.
+
+## intuizione
+
+Cotolicious era un prodotto iconico, il tipico cibo fritto milanese, che aveva una solida base di fan fedeli. Tuttavia, i margini erano bassi e, dato che si trattava solo di cibo fritto, anche i clienti più fedeli si recavano nei suoi ristoranti solo una volta al mese in media.
+
+## Soluzione
+
+Abbiamo deciso di creare un'offerta di catering online, in modo che i clienti fossero incentivati a ordinare da Cotolicious quando avevano piccoli incontri o feste. Inoltre, Cotolicious ha aggiunto un menu a rotazione basato su cibi tipici milanesi non fritti, in modo che anche i clienti che non mangiano spesso cibi fritti potessero fare acquisti al ristorante.
+
+Tradotto con www.DeepL.com/Translator (versione gratuita)
 
 [Cotolicious](https://cotolicious.com)

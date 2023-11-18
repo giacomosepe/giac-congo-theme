@@ -6,11 +6,13 @@ baseURL = "/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 18
+
 
 [languages]
   [languages.en]
-    
-    
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
@@ -29,9 +31,7 @@ defaultContentLanguageInSubdir = true
     # [languages.en.params]
     #   subtitle = 'Reference, Tutorials, and Explanations'
 
-enableRobotsTXT = true
-paginate = 10
-summaryLength = 20
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
