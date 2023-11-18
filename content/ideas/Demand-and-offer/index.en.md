@@ -2,7 +2,6 @@
 title: Demand and offer after the 2020s
 date: 2023-10-25
 thumbnail: "digital-venere.jpg"
-featured_image_caption: "Demand is challenging"
 ---
 
 # The role of publishing in today's economy

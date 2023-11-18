@@ -1,6 +1,7 @@
 ---
 title: Ideas
 summaryLength: 100
+translationKey: ideas
 ---
 
 Here is a small collection of thoughts and ideas concerning ideas regarding how business and publishing are starting to converge in a number of possible directions:

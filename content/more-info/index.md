@@ -3,7 +3,7 @@ title: More info
 description: Building digital products for Small and Medium Enterprises
 showDate: false
 showReadingTime: false
-layout: "page"
+translationKey: more-info
 showPosts: false
 ---
 

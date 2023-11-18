@@ -11,18 +11,18 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Simple ideas"
-  pageRef = "ideas"
+  name = "Pensieri"
+  pageRef = "pensieri"
   weight = 30
 
 [[main]]
-  name = "More info"
-  pageRef = "more-info"
+  name = "Altre info"
+  pageRef = "altre-informazioni"
   weight = 20
 
 [[main]]
-  name = "Work"
-  pageRef = "work"
+  name = "Esperienza"
+  pageRef = "esperienza"
   weight = 10
 
 # [[main]]
