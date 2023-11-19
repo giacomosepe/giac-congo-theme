@@ -9,7 +9,7 @@ title = "Giacomo Sepe"
 [params]
   dateFormat = "2 January 2006"
   # mainSections = ["section1", "section2"]
-  description = "Strumenti per le aziende "
+  description = "Giacomo Sepe e' un imprenditore che sviluppa soluzioni per le aziende che voliono essere connesse con la propria base clienti"
 
 [author]
   name = "Giacomo Sepe"

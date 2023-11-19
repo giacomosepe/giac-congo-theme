@@ -13,7 +13,7 @@ enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = true
 
-# robots = ""
+robots = ""
 fingerprintAlgorithm = "sha256"
 
 [header]
@@ -85,8 +85,8 @@ fingerprintAlgorithm = "sha256"
 [author]
   name = "Giacomo Sepe"
   image = "img/profile.jpg"
-  headline = "Building digital products "
-  bio = "I am figuring out what I *preneur"
+  headline = "Entrpreneur | Services for family businesses"
+  bio = "Started to build an ecosystem of services for family businesses to connect with their audience"
   links = [
     { email = "mailto:giacomo@ianuscapital.com" },
     { link = "https://giacomosepe.substack.com/" },
