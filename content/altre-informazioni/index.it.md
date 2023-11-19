@@ -7,13 +7,20 @@ translationKey: more-info
 showPosts: false
 ---
 
-Giacomo Sepe è un manager esperto trasformato in imprenditore nel 2022, dopo anni di lavoro con gli azionisti per costruire, digitalizzare e far crescere le imprese. Attualmente sta creando strumenti e soluzioni per aiutare gli azionisti e i manager di aziende medie a sviluppare pubblico e reputazione, e a costruire, pubblicare e distribuire attività digitali e media che generano ricavi e aumentano eventualmente il valore dell'azienda.
+Giacomo Sepe è un manager con 15 anni di esperienza presso grandi istituzioni finanziarie e presso alcuni dei piu' noti imprenditori privati italiani e svizzeri. Si e' trasformato in imprenditore nel 2022.
 
-Nato in Italia ed educato negli Stati Uniti, il signor Sepe è un professionista del settore aziendale con un track record di successo nella gestione di progetti dall'inizio alla fine e nell'attrarre investitori per le imprese.
+Nella convinzione che le aziende moderne possono, e probabilmente in futuro dovranno, investire di piu' in asset media e digitali per creare fatturato, valore e possibilmente maggiori margini, Sepe ha iniziato a sviluppare una rosa di servizi e prodotti a supporto di imprenditori di piccole e medie imprese.
 
-Spostato da una innata curiosità intellettuale e adattabilità, Giacomo Sepe ha sviluppato una formazione diversificata che spazia dal private equity (5 anni presso Hines ed Eqvalue), consulenza per fusioni e acquisizioni (2,5 anni presso Fineurop Soditic ed EQValue consulting), sviluppo aziendale (3 anni come rappresentante commerciale e responsabile delle partnership presso Merrill Lynch) e gestione generale (6 anni presso Simmetrico e IPE Holding).
+Il progetto a lungo termine, e' centrato sulla creazione di strumenti diversi per consentire agli imprenditori di:
 
-Attualmente con base tra Italia e New York, il signor Sepe parla fluentemente italiano, spagnolo e francese.
+- Migliorare la connessione con la propria base clienti attraverso la conoscenza delle loro esigenze e l'affermazione della reputazione come autorita' nel settore;
+- Realizzare e vendere prodotti digitali e media che siano utili alla base clienti esistente, infinitamente replicabili e ad potenziale di redditivita'
+
+Il primo prodotto, che sara' rivolto specificamente agli imprenditori che volgiono creare o migliorare il proprio personal brand, e' in fase di realizzazione.
+
+Basato a Milano Giacomo Sepe e' nato a Napoli e si e' formato negli Stati Uniti, dove ha conseguito un MBA alla Columbia University. Ha inoltre lavorato per Merrill Lynch a Londra, dove era responsabile delle vendite e del support dei prodotti di Private Equity, per Hines Real Estate e UBS Real Estate a Milano, dove era investment manager, per EQValue Private Equity a Roma, dove era investment manager e infine per tre family office internazionali dove era venture partner responsabile operativo di alcune partecipate. L'ultimo incarico completato nel 2021 e' stato la gestione e la cessione di una piccola azienda di Milano, Cotolicious.
+
+Parla fluentemente inglese, spagnolo e francese.
 
 [Agli articoli su Substack](https://giacomosepe.substack.com) >> || [Al profilo LinkedIn](https://linkedin.com/in/giacomosepe) >>
 
