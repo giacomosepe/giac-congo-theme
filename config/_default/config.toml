@@ -6,7 +6,7 @@ baseURL = "/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 paginate = 10
 summaryLength = 18
 
