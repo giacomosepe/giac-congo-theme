@@ -15,7 +15,7 @@ enableImageLazyLoading = true
 
 fingerprintAlgorithm = "sha256"
 
-# [robots]
+robots = "follow"
 #   index = true
 #   follow = true
 
