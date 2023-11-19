@@ -13,7 +13,7 @@ enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = true
 
-robots = ""
+robots = "All"
 fingerprintAlgorithm = "sha256"
 
 [header]
