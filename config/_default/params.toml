@@ -63,6 +63,9 @@ fingerprintAlgorithm = "sha256"
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
+  changeFreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = -1
 
 [taxonomy]
   showTermCount = true
