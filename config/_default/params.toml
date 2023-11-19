@@ -13,12 +13,11 @@ enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = true
 
-[robots]
-  index = true
-  follow = true
-
-
 fingerprintAlgorithm = "sha256"
+
+# [robots]
+#   index = true
+#   follow = true
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
