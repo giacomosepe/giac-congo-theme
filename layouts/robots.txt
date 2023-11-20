@@ -1,6 +1,7 @@
 User-agent: *
-Allow: /
 
-{{ range where .Data.Pages "Params.robotsdisallow" true }}
+{{ if eq (getenv "HUGO_NEW") "production" | or (eq .Site.Params.env "production") }}
+Disallow:
+{{ else }}
 Allow: /
 {{ end }}
