@@ -11,23 +11,25 @@ paginate = 10
 summaryLength = 18
 
 
-# [languages]
-#   [languages.en]
-#     disabled = false
-#     languageCode = 'en-US'
-#     languageDirection = 'ltr'
-#     languageName = 'English'
-#     title = 'Giacomo Sepe'
-#     weight = 1
+ [languages]
+   [languages.en]
+    baseURL = "https://giacomosepe.com"
+    disabled = false
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Giacomo Sepe'
+    weight = 1
     # [languages.en.params]
     #   subtitle = 'Referenz, Tutorials und Erklärungen'
     [languages.it]
+      baseURL = "https://giacomosepe.it"
       disabled = false
-       languageCode = 'it'
-       languageDirection = 'ltr'
-       languageName = 'Italiano'
-       title = 'Giacomo Sepe'
-       weight = 2
+      languageCode = 'it'
+      languageDirection = 'ltr'
+      languageName = 'Italiano'
+      title = 'Giacomo Sepe'
+      weight = 2
     # [languages.en.params]
     #   subtitle = 'Reference, Tutorials, and Explanations'
 
