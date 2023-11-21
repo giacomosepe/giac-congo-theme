@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Giacomo Sepe | Soluzioni media per connettere imprese e base clienti on Giacomo Sepe</title>
-    <link>/it/</link>
-    <description>Recent content in Giacomo Sepe | Soluzioni media per connettere imprese e base clienti on Giacomo Sepe</description>
+    <title>Esperienze professionali on Giacomo Sepe</title>
+    <link>/it/it/esperienza/</link>
+    <description>Recent content in Esperienze professionali on Giacomo Sepe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/it/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demand and offer after the 2020s</title>
-      <link>/it/it/pensieri/demand-and-offer/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/it/it/pensieri/demand-and-offer/</guid>
-      <description>The role of publishing in today&amp;rsquo;s economy # Where are we now #During the industrial revolution, most companies&amp;rsquo; main challenge was to get production right and then communicate how good the output was.</description>
-    </item>
-    <item>
-      <title>Live like Google</title>
-      <link>/it/it/pensieri/live-like-google/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/it/it/pensieri/live-like-google/</guid>
-      <description>I woke up this morning with this crazy idea and I decided to write about it, without too much research.</description>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:42 +0100</lastBuildDate>
+    <atom:link href="/it/it/esperienza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Investment Manager @family office De Picciotto</title>
       <link>/it/it/esperienza/depicciotto-familyoffice/</link>
@@ -42,13 +28,6 @@
       <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
       <guid>/it/it/esperienza/simmetrico/</guid>
       <description>Simmetrico è un&amp;rsquo;agenzia di comunicazione ed eventi con forti radici nella cultura pop e nella storia. Nel 2015 l&amp;rsquo;azienda ha consegnato un contratto pluriennale che ha assorbito la maggior parte delle sue capacità e che l&amp;rsquo;ha costretta ad assumere personale e ad aumentare la base dei costi.</description>
-    </item>
-    <item>
-      <title>Altre informazioni</title>
-      <link>/it/it/altre-informazioni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/it/it/altre-informazioni/</guid>
-      <description>Giacomo Sepe è un manager con 15 anni di esperienza presso grandi istituzioni finanziarie e presso alcuni dei piu&amp;rsquo; noti imprenditori privati italiani e svizzeri.</description>
     </item>
   </channel>
 </rss>

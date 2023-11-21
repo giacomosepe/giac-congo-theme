@@ -4,102 +4,109 @@
   
     
       <url>
-            <loc>https://giacomosepe.it/pensieri/demand-and-offer/</loc>
+            <loc>/it/it/pensieri/demand-and-offer/</loc>
             <lastmod>2023-10-25T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://giacomosepe.it/</loc>
-            <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://giacomosepe.com/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="it"
-              href="https://giacomosepe.it/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://giacomosepe.it/pensieri/live-like-google/</loc>
-            <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://giacomosepe.it/pensieri/</loc>
+            <loc>/it/</loc>
             <lastmod>2023-10-25T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://giacomosepe.com/ideas/"
+              href="/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="it"
-              href="https://giacomosepe.it/pensieri/"
+              href="/it/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://giacomosepe.it/esperienza/</loc>
+            <loc>/it/it/</loc>
+            <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/it/it/pensieri/live-like-google/</loc>
+            <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/it/it/pensieri/</loc>
+            <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/ideas/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="it"
+              href="/it/it/pensieri/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>/it/it/esperienza/</loc>
             <lastmod>1970-01-01T01:33:42+01:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://giacomosepe.com/work/"
+              href="/work/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="it"
-              href="https://giacomosepe.it/esperienza/"
+              href="/it/it/esperienza/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://giacomosepe.it/esperienza/depicciotto-familyoffice/</loc>
+            <loc>/it/it/esperienza/depicciotto-familyoffice/</loc>
             <lastmod>1970-01-01T01:33:42+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://giacomosepe.it/esperienza/cotolicious/</loc>
+            <loc>/it/it/esperienza/cotolicious/</loc>
             <lastmod>1970-01-01T01:33:39+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://giacomosepe.it/esperienza/simmetrico/</loc>
+            <loc>/it/it/esperienza/simmetrico/</loc>
             <lastmod>1970-01-01T01:33:38+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://giacomosepe.it/altre-informazioni/</loc>
+            <loc>/it/it/altre-informazioni/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://giacomosepe.com/more-info/"
+              href="/more-info/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="it"
-              href="https://giacomosepe.it/altre-informazioni/"
+              href="/it/it/altre-informazioni/"
               />
           </url>
     

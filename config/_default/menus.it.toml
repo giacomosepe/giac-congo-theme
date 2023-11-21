@@ -25,27 +25,27 @@
   pageRef = "esperienza"
   weight = 10
 
-[[main]]
-  name = "EN"
-  url = "https://giacomosepe.com"
-  weight = 50
+# [[main]]
+#   name = "EN"
+#   url = "https://giacomosepe.com"
+#   weight = 50
 
 # [[main]]
 #   name = "Tags"
 #   pageRef = "tags"
 #   weight = 30
 
-[[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
-
 # [[main]]
-#   identifier = "locale"
-#   weight = 100
+#   identifier = "search"
+#   weight = 99
 #   [main.params]
-#     action = "locale"
+#     action = "search"
+
+ [[main]]
+   identifier = "locale"
+   weight = 100
+   [main.params]
+     action = "locale"
 
 
 # -- Footer Menu --

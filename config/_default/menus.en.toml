@@ -30,29 +30,29 @@
 #   pageRef = "tags"
 #   weight = 30
 
-[[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
-
-[[main]]
-  name = "ITA"
-  url = "https://giacomosepe.it"
-  weight = 50
+# [[main]]
+#   identifier = "search"
+#   weight = 99
+#   [main.params]
+#     action = "search"
 
 # [[main]]
-#   identifier = "locale"
-#   weight = 100
-#   [main.params]
-#     action = "locale"
+#   name = "ITA"
+#   url = "https://giacomosepe.it"
+#   weight = 50
+
+ [[main]]
+   identifier = "locale"
+   weight = 100
+   [main.params]
+     action = "locale"
 
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
