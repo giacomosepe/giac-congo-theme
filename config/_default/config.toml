@@ -4,7 +4,7 @@
 
 baseURL = "https://giacomosepe.com"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
 paginate = 10
