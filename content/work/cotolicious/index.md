@@ -1,5 +1,6 @@
 ---
 title: CEO @Cotolicious
+translationKey: cotolicious
 showDate: false
 showTime: false
 showSummary: true

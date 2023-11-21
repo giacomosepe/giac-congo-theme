@@ -1,5 +1,6 @@
 ---
 title: Investment Manager @family office De Picciotto
+translationKey: picciotto
 showDate: false
 showSummary: true
 showReadingTime: false

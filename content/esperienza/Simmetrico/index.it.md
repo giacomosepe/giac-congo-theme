@@ -1,5 +1,6 @@
 ---
 title: Product Development and COO @Simmetrico
+translationKey: simmetrico
 showDate: false
 showTime: false
 showSummary: true
