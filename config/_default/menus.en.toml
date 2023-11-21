@@ -37,10 +37,15 @@
     action = "search"
 
 [[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+  name = "ITA"
+  url = "https://giacomosepe.it"
+  weight = 50
+
+# [[main]]
+#   identifier = "locale"
+#   weight = 100
+#   [main.params]
+#     action = "locale"
 
 
 # -- Footer Menu --
