@@ -13,7 +13,7 @@ summaryLength = 18
 
  [languages]
    [languages.en]
-    baseURL = "https://giacomosepe.com"
+    baseURL = "/"
     disabled = false
     contentDir = 'content/en'
     languageCode = 'en'
