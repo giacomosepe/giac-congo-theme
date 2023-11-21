@@ -4,7 +4,7 @@
 
 baseURL = "https://giacomosepe.com"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+# defaultContentLanguageInSubdir = true
 
 enableRobotsTXT = true
 paginate = 10
@@ -15,7 +15,7 @@ summaryLength = 18
    [languages.en]
     baseURL = "https://giacomosepe.com"
     disabled = false
-    contentDir = 'content/en'
+    contentDir = 'content/en/'
     languageCode = 'en'
     languageDirection = 'ltr'
     languageName = 'English'
@@ -26,7 +26,7 @@ summaryLength = 18
     [languages.it]
       baseURL = "https://giacomosepe.it"
       disabled = false
-      contentDir = 'content/it'
+      contentDir = 'content/it/'
       languageCode = 'it'
       languageDirection = 'ltr'
       languageName = 'Italiano'
