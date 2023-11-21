@@ -4,7 +4,7 @@ translationKey: simmetrico
 showDate: false
 showTime: false
 showSummary: true
-
+translationKey: google
 showReadingTime: false
 thumbnail: simmetrico-logo.jpg
 date: 2018

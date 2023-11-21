@@ -1,5 +1,6 @@
 ---
 title: Demand and offer after the 2020s
+translationKey: demand
 date: 2023-10-25
 thumbnail: "digital-venere.jpg"
 ---

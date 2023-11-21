@@ -1,5 +1,6 @@
 ---
 title: Live like Google
+translationKey: google
 date: 2023-10-25
 thumbnail: "stanford.jpg"
 featured_image_caption: "Google standard in Standford"
