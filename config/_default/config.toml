@@ -2,36 +2,36 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# baseURL = "https://giacomosepe.com"
+baseURL = "/"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 18
 
 
- [languages]
-   [languages.en]
-    baseURL = "/"
-    disabled = false
- #   contentDir = 'content/en'
-    languageCode = 'en'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Giacomo Sepe'
-    weight = 1
-    # [languages.en.params]
-    #   subtitle = 'Referenz, Tutorials und Erklärungen'
-    [languages.it]
-      baseURL = "https://giacomosepe.it"
-      disabled = false
-      contentDir = 'content/it/'
-      languageCode = 'it'
-      languageDirection = 'ltr'
-      languageName = 'Italiano'
-      title = 'Giacomo Sepe'
-      weight = 2
+#  [languages]
+#    [languages.en]
+#     baseURL = "/"
+#     disabled = false
+#  #   contentDir = 'content/en'
+#     languageCode = 'en'
+#     languageDirection = 'ltr'
+#     languageName = 'English'
+#     title = 'Giacomo Sepe'
+#     weight = 1
+#     # [languages.en.params]
+#     #   subtitle = 'Referenz, Tutorials und Erklärungen'
+#     [languages.it]
+#       baseURL = "https://giacomosepe.it"
+#       disabled = false
+#       contentDir = 'content/it/'
+#       languageCode = 'it'
+#       languageDirection = 'ltr'
+#       languageName = 'Italiano'
+#       title = 'Giacomo Sepe'
+#       weight = 2
     # [languages.en.params]
     #   subtitle = 'Reference, Tutorials, and Explanations'
 
