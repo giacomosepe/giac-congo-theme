@@ -1,0 +1,23 @@
+User-agent: *
+
+Allow: /ideas/demand-and-offer/
+
+Allow: /
+
+Allow: /ideas/
+
+Allow: /ideas/live-like-google/
+
+Allow: /work/depicciotto-familyoffice/
+
+Allow: /work/
+
+Allow: /work/cotolicious/
+
+Allow: /work/simmetrico/
+
+Allow: /categories/
+
+Allow: /more-info/
+
+Allow: /tags/

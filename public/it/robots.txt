@@ -1,0 +1,23 @@
+User-agent: *
+
+Allow: /pensieri/demand-and-offer/
+
+Allow: /
+
+Allow: /pensieri/live-like-google/
+
+Allow: /pensieri/
+
+Allow: /esperienza/
+
+Allow: /esperienza/depicciotto-familyoffice/
+
+Allow: /esperienza/cotolicious/
+
+Allow: /esperienza/simmetrico/
+
+Allow: /altre-informazioni/
+
+Allow: /categories/
+
+Allow: /tags/
