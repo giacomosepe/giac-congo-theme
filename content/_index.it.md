@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Soluzioni media per connettere imprese e base clienti
 ---
 
-Sviluppo di servizi e strumenti che consentono a imprenditori e liberi professionisti di connettersi alla base clienti e monetizzare prodotti digitali e media
+Creazione e sviluppo di aziende di servizi standardizzati, come prodotti digitali e strumenti di lavoro replicabili, scalabili (dall'inglese productized) e con margini elevati
 
 <!-- Impeganto a realizzare strumenti e servizi che supportano imprenditori di PMI nella creazione di reputazione e asset media digitali monetizzabili -->
 

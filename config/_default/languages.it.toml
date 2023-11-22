@@ -14,8 +14,8 @@ title = "Giacomo Sepe"
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Imprenditore | Soluzioni media per connettere imprese e base clienti"
-  bio = "Strumenti e servizi che supportano imprenditori di PMI nella creazione di reputazione e asset digitali monetizzabili"
+  headline = 'Imprenditore | Creazione e sviluppo di aziende di servizi standardizzati per imprese'
+  bio = "Imprenditore che crea e sviluppa aziende di servizi standardizzati e scalabili, con elevati margini"
   links = [
     { email = "mailto:giacomo@ianuscapital.com" },
     { link = "https://giacomosepe.substack.com/" },
