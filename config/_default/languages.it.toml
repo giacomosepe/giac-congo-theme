@@ -14,8 +14,8 @@ title = "Giacomo Sepe"
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = 'Business development @Merrill Lynch, @UBS e @FineuropSoditc | CEO @Cotolicious, @Chamilia Italia, COO @Simmetrico Cultura | Dal 2022 imprenditore e apprendista scrittore'
-  bio = "Imprenditore che crea e sviluppa aziende di servizi standardizzati e scalabili, con elevati margini"
+  headline = "Imprenditore | Soluzioni e strumenti a servizio di imprenditori che vogliono lanciare nuovi prodotti e servizi"
+  bio = "Imprenditore che crea e sviluppa servizi standardizzati e scalabili per il b2b"
   links = [
     { email = "mailto:giacomo@ianuscapital.com" },
     { link = "https://giacomosepe.substack.com/" },
@@ -60,3 +60,7 @@ title = "Giacomo Sepe"
   #   { youtube = "https://youtube.com/username" },
    ]
 
+
+
+# TESTO per HOMEPAGE:
+# Business development @Merrill Lynch, @UBS e @FineuropSoditc | CEO @Cotolicious, @Chamilia Italia, COO @Simmetrico Cultura | Dal 2022 imprenditore e apprendista scrittore

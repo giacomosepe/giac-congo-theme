@@ -2,11 +2,17 @@
 title: Giacomo Sepe | Soluzioni media per connettere imprese e base clienti
 ---
 
-Giacomo Sepe è business manager, product strategist e recente fondatore di Lemon Perks, una holding personale che crea e commercializza prodotti e servizi standardizzati per supportare gli imprenditori nel lancio di nuovi prodotti.
+Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
-Giacomo Sepe ha 15 anni di esperienza nella gestione aziendale, nelle vendite e nella strategia digitale, avendo lavorato per alcune delle più grandi istituzioni finanziarie del mondo e avendo supportato piccoli e medi imprenditori nella raccolta di equity, finanziamento R&S e nelle strategie di sviluppo digitale.
+In precedenza carriera istituzionale presso istituzioni finanziarie internazionali (Merril Lynch, Hines, UBS), Giacomo Sepe si è trasformato in un consulente indipendente e imprenditore, prima in partnership con due società di consulenza e un fondo di private equity, e poi in proprio come gestore d'impresa per conto degli azionisti.
 
-<!-- Impeganto a realizzare strumenti e servizi che supportano imprenditori di PMI nella creazione di reputazione e asset media digitali monetizzabili -->
+<!--
+
+Carriera istituzionale presso istituti finanziari internazionali (Merril Lynch, Hines, UBS) durata circa 10 anni, e carriera imprenditoriale prima in partnership con societa' di consulenza e un fondo di Private Equity, e poi da solo come manager d'azienda per conto degli azionisti.
+
+Giacomo Sepe ha maturato 20 anni di esperienza tra finanza internazionale e gestione aziendale, con particolare attenzione all'ideazione, crezione, lancio e sviluppo di prodotti digitali e media nell'ambito dei servizi o del retail.
+
+ Impeganto a realizzare strumenti e servizi che supportano imprenditori di PMI nella creazione di reputazione e asset media digitali monetizzabili -->
 
  <!-- 
 Developing a set of solutions for daring shareholders who are ready to build iconic digital and media assets that generate additional revenue or improve reputation and brand perception
