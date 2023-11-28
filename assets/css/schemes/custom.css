@@ -12,9 +12,30 @@
 header > h1 {
 	color: rgba(var(--color-primary-500));
 }
+@font-face {
+	font-family: inter;
+	src: url("/fonts/Inter-Regular.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 400;
+}
+@font-face {
+	font-family: inter;
+	src: url("/fonts/Inter-Italic.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: inter;
+	src: url("/fonts/Inter-Bold.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 700;
+	font-style: bold;
+}
 
 body {
 	background-color: rgba(var(--color-primary-800));
+	font-family: "Inter", sans-serif;
 }
 nav > div > a {
 	color: rgba(var(--color-primary-500));
