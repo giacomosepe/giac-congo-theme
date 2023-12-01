@@ -2,9 +2,9 @@
 title: Giacomo Sepe | Building and launching standardized services and digital products
 ---
 
-In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
+<!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 
-Before Giacomo Sepe pursued an institutional career at international financial institutions (Merril Lynch, Hines, UBS) and turned into an independent advisor and entrepreneur first in partnership with 2 consulting firms and a private equity fund, and then on his own as a business manager on behalf of shareholders.
+Before Giacomo Sepe pursued an institutional career at international financial institutions (Merril Lynch, Hines, UBS) and turned into an independent advisor and entrepreneur first in partnership with 2 consulting firms and a private equity fund, and then on his own as a business manager on behalf of shareholders. -->
 
  <!-- Building a suite of services and tools for company managers to develop an audience and create revenue generating media and digital assets -
 

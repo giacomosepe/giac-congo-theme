@@ -1,10 +1,10 @@
 ---
-title: Giacomo Sepe | Soluzioni media per connettere imprese e base clienti
+title: Giacomo Sepe | Investimenti in servizi prodottizzati
 ---
 
-Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
+<!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
-In precedenza carriera istituzionale presso istituzioni finanziarie internazionali (Merril Lynch, Hines, UBS), Giacomo Sepe si è trasformato in un consulente indipendente e imprenditore, prima in partnership con due società di consulenza e un fondo di private equity, e poi in proprio come gestore d'impresa per conto degli azionisti.
+In precedenza carriera istituzionale presso istituzioni finanziarie internazionali (Merril Lynch, Hines, UBS), Giacomo Sepe si è trasformato in un consulente indipendente e imprenditore, prima in partnership con due società di consulenza e un fondo di private equity, e poi in proprio come gestore d'impresa per conto degli azionisti. -->
 
 <!--
 
