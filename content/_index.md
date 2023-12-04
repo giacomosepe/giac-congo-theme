@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Solutions that help improve copywriting
 ---
 
-Solutions and services that support managers and business owners who want to improve or build their personal brand, communicate with investors, launch new products and services
+Solutions and services that support managers and business owners who want to improve or build stronger relationships with clients, partners, and investors
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 

@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Soluzioni per migliorare la produzione di contenuti
 ---
 
-Soluzioni e servizi a servizio di manager e imprenditori che vogliono migliorare o costruire la propria immagine, comunicare con degli investitori, lanciare nuovi prodotti e servizi
+Sviluppo servizi standardizzati per imprenditori e manager che vogliono creare relazioni con clienti, partner e investitori
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
