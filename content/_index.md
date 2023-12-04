@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Solutions that help improve copywriting
 ---
 
-Building a set of solutions and services for business owners who want to build personalized relationships with clients, partners, and investors
+Building a set of solutions and services for business owners who want to build relationship based digital products
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 
