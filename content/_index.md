@@ -1,5 +1,5 @@
 ---
-title: Giacomo Sepe | Solutions that help improve copywriting
+title: Giacomo Sepe | Investing in standardized services busiensses for SMEs
 ---
 
 Building a set of solutions for business owners who want to build digital products and media assets

@@ -1,5 +1,5 @@
 ---
-title: Giacomo Sepe | Soluzioni per migliorare la produzione di contenuti
+title: Giacomo Sepe | Investimenti in aziende di sevrizi-prodotto per PMI
 ---
 
 Investo in aziende che aiutano i clienti a creare, sviluppare e vendere prodotti e asset digitali
