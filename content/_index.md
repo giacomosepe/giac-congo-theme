@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Investing in standardized services busiensses for SMEs
 ---
 
-Creating an ecosystem of solutions for business owners who want to finance, build, and sell digital products and media assets though content
+On a mission to offer solutions to business owners who want to build media assets, digital products, and personal brand
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 
