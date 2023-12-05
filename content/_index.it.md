@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Investimenti in aziende di sevrizi-prodotto per PMI
 ---
 
-Investo in aziende che aiutano i clienti a creare, sviluppare e vendere prodotti e asset digitali
+Con l'unico obiettivo di creare soluzioni che aiutano i clienti a finanziare, realizzare e vendere prodotti e asset digitali
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
