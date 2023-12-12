@@ -9,12 +9,12 @@ title = "Giacomo Sepe"
 [params]
   dateFormat = "2 January 2006"
   # mainSections = ["section1", "section2"]
-  description = "Giacomo Sepe e' un imprenditore che sviluppa soluzioni per le aziende basate su processi"
+  description = "Giacomo Sepe e' un imprenditore che sviluppa prodotti basati su community e servizi standardizzati"
 
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Imprenditore | Investimenti in aziende che offrono servizi-prodotto"
+  headline = "Imprenditore | Investimenti e sviluppo di imprese per offrire servizi standardizzati"
   bio = "Imprenditore che crea e sviluppa servizi standardizzati e scalabili per il b2b"
   links = [
     { email = "mailto:giacomo@ianuscapital.com" },

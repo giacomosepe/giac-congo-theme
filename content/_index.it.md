@@ -1,8 +1,8 @@
 ---
-title: Giacomo Sepe | Investimenti in aziende di sevrizi-prodotto per PMI
+title: Giacomo Sepe | Investimento e incbazione di sevrizi-prodotto per PMI
 ---
 
-Con l'obiettivo di offrire a imprenditori e manager le competenze di creativi, professionisti e scrittori di talento sotto forma di servizi professionali prevedibili in termimni di tempo e di costo
+Obiettivo di supportare aziende di retail e servizi nel lancio di nuovi prodotti e servizi, offrendo loro strumenti e soluzioni a supporto delle fasi di pre-lancio, lancio e post-lancio con costi e risultati prevedibili
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 

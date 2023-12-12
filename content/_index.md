@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Investing in standardized services busiensses for SMEs
 ---
 
-On a mission to offer business owners access to great creative and professional competences as a standardized service with predictable cost and output quality
+On a mission to help retail and service companies launch new products and services by offering tools and solutions supporting pre-launch, launch, and post-launch with predictable cost and outcome
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 
