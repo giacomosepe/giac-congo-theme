@@ -1,8 +1,8 @@
 ---
-title: Giacomo Sepe | Investimento e incbazione di sevrizi-prodotto per PMI
+title: Giacomo Sepe | Supporto per imprenditori che vogliono lanciare un nuovo prodotto
 ---
 
-Obiettivo di supportare aziende di retail e servizi nel lancio di nuovi prodotti e servizi, offrendo loro strumenti e soluzioni a supporto delle fasi di pre-lancio, lancio e post-lancio con costi e risultati prevedibili
+Realizzando una gamma di soluzioni standardizzate con costi pre-definiti e risultati prevedibili a servizio di imprenditori che vogliono lanciare prodotti e servizi digitali e specificamente supportano una delle 3 fasi di Pre-Lancio, Lancio o Post-Lancio
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 

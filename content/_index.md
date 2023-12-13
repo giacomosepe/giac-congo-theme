@@ -1,8 +1,8 @@
 ---
-title: Giacomo Sepe | Investing in standardized services busiensses for SMEs
+title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-On a mission to help retail and service companies launch new products and services by offering tools and solutions supporting pre-launch, launch, and post-launch with predictable cost and outcome
+Building an array of standardized solutions with predictable cost, predictable output that help business owners launch new products and services and specifically support Pre-Launch, Launch, or Post-Launch phases
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 
