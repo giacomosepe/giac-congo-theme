@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-Building an array of standardized solutions with predictable cost, predictable output that help business owners launch new products and services and specifically support Pre-Launch, Launch, or Post-Launch phases
+Building an array of solutions with predictable cost, predictable output that help business owners generate demand to monetize digital and media assets so that they can achieve long term higher profit margins
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 
