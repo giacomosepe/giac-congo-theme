@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-After years of corporate finance and tech financing advisory, turned entrepreneur to build business solutions that have positive impact on companies valuation
+After years of corporate finance and Company management, turned entrepreneur to build business solutions that have positive impact on companies valuation
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 
