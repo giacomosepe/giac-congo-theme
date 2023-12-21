@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Supporto per imprenditori che vogliono lanciare un nuovo prodotto
 ---
 
-Realizzando soluzioni a prezzi pre-definiti per aiutare gli imprenditori che vogliono sviluppare brand, asset media e servizi-prodotto per i propri clienti
+Sviluppare numerosi prodotti per offrire soluzioni utili agli imprenditori che vogliono aumentare il valore aziendale
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
