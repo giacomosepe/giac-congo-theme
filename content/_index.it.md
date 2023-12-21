@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Supporto per imprenditori che vogliono lanciare un nuovo prodotto
 ---
 
-Sviluppare numerosi prodotti per offrire soluzioni utili agli imprenditori che vogliono aumentare il valore aziendale
+Dopo circa 15 anni di coroporate finance e finanziamento dello sviluppo prodotto, convertito a imprenditore per creare soluzioni che aumentano il valore azionario di PMI e startup
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
