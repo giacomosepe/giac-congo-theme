@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Supporto per imprenditori che vogliono lanciare un nuovo prodotto
 ---
 
-Realizzando una gamma di soluzioni standardizzate con costi pre-definiti e risultati prevedibili a servizio di imprenditori che vogliono lanciare prodotti e servizi digitali e specificamente supportano una delle 3 fasi di Pre-Lancio, Lancio o Post-Lancio
+Realizzando soluzioni a prezzi pre-definiti per aiutare gli imprenditori che vogliono sviluppare brand, asset media e servizi-prodotto per i propri clienti
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
