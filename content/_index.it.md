@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Supporto per imprenditori che vogliono lanciare un nuovo prodotto
 ---
 
-Dopo circa 15 anni di coroporate finance e gestione aziendale, convertito a imprenditore per creare soluzioni che aumentano il valore azionario di PMI e startup
+Dopo 20 di esperienza nel mondo finanziario, trasformato in manager per lo sviluppo di media asset per aiutare medie aziende a creare valore azionario e aumentare le vendite
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
