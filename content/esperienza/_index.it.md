@@ -13,6 +13,10 @@ Primi anni di carriera presso grandi istituzioni e, successivamente, numerosi an
 
 ## Alcune iniziative imprenditoriali:
 
+Dopo avere deciso di seguire la filosofia del "Build in public" i progetti in corso si trovano qui:
+
+[HERE](https://indiepa.ge/giacomo)
+
 In aggiunta, alcune esperienze imprenditoriali legate dalla passione per la scrittura e per le attivita' online.
 
 Iniziative concluse:

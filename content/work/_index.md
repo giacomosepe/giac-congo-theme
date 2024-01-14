@@ -12,8 +12,11 @@ Early career at large financial institutions (Merrill Lynch, UBS, Hines), follow
 
 ## Entrepreneurial experience
 
-In addition, a few entrepreneurial experiences linked by a passion for writing and for online business.
-Launched ventures:
+Decided to join the build in public concept and created a live page with projects:
+
+[HERE](https://indiepa.ge/giacomo)
+
+Past ventures:
 
 - Specialty Italian cheese online and physical distribution in the UK in 1999
 - Budget car rental service fully online in 2002
