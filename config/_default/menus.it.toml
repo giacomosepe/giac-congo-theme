@@ -11,9 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Pensieri"
-  pageRef = "pensieri"
-  weight = 30
+  name = "Progetti indie"
+  url = "https://projects.giacomosepe.com"
+  weight = 9
 
 [[main]]
   name = "Altre info"
