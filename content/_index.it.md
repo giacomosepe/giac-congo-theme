@@ -1,8 +1,10 @@
 ---
-title: Giacomo Sepe | Supporto per imprenditori che vogliono lanciare un nuovo prodotto
+title: Giacomo Sepe | Strategia di innovazione di prodotto per investitori privati
 ---
 
-Carriera di Product Manager per prodotti finanziari, dopo l'MBA diventatato manager per investitori di private equity e oggi supporto piccole e medie aziende nella crescita attraverso investimenti in tecnologia e media
+Sviluppo, gestione e finanziamento di prodotti innovativi e media, business unit aziendali e imprese private
+
+[Leggi i miei articoli](http://giacomosepe.it)
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 

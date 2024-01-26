@@ -14,11 +14,13 @@ title = "Giacomo Sepe"
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Entrepreneur | Venture partner | Innovation strategy advisor for SMEs"
-  bio = "Offering productized services that make life easier, pricing more clear, and delivery streamlined"
+  headline = "Manager for private investors on innovation development projects"
+  bio = "Supporting private investors to create, manage and finance portfolio companies, business units, and technology products"
+  
+
   links = [
     { email = "mailto:giacomo@ianuscapital.com" },
-    { link = "https://giacomosepe.substack.com/" },
+  #   { link = "https://giacomosepe.substack.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },

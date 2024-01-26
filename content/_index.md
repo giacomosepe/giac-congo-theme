@@ -2,7 +2,9 @@
 title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-Started as a Product Manager, became a manager for private equity investors and now I help companies scale by leveraging technology and media assets
+Supporting private investors to create, manage and finance portfolio companies, business units, and technology products
+
+[Read my articles](https://giacomosepe.substack.com)
 
 <!-- In the past 10 years focused solely on providing tools and servives to companies who want to develop digital and media assets.
 

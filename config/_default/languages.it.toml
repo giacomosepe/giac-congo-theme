@@ -9,16 +9,18 @@ title = "Giacomo Sepe"
 [params]
   dateFormat = "2 January 2006"
   # mainSections = ["section1", "section2"]
-  description = "Giacomo Sepe e' un imprenditore che sviluppa prodotti basati su community e servizi standardizzati"
+  description = "Manager per investitori di capitale privato / Private Equity in progetti di innovazione"
 
+
+# THIS IS ON THE HOME PAGE
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Imprenditore | Venture partner Private equity | Strategia di sviluppo di beni intangibili"  
-  bio = "Imprenditore che crea e sviluppa servizi standardizzati e scalabili per il b2b"
+  headline = "Manager per investitori di capitale privato / Private Equity in progetti di innovazione"  
+  bio = "Supporto a investitori privati nella creazione, gestione e finanziamento del portafoglio di imprese e business unit"
   links = [
     { email = "mailto:giacomo@ianuscapital.com" },
-    { link = "https://giacomosepe.substack.com/" },
+   # { link = "https://giacomosepe.substack.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },

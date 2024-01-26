@@ -11,19 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Progetti indie"
+  name = "Progetti in corso"
   url = "https://projects.giacomosepe.com"
   weight = 9
 
-[[main]]
-  name = "Altre info"
-  pageRef = "altre-informazioni"
-  weight = 20
+# [[main]]
+#   name = "Altre info"
+#   pageRef = "altre-informazioni"
+#   weight = 20
 
-[[main]]
-  name = "Esperienza"
-  pageRef = "esperienza"
-  weight = 10
+# [[main]]
+#   name = "Esperienza"
+#   pageRef = "esperienza"
+#   weight = 10
 
 # [[main]]
 #   name = "EN"
