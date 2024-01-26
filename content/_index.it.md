@@ -4,7 +4,7 @@ title: Giacomo Sepe | Strategia di innovazione di prodotto per investitori priva
 
 Sviluppo, gestione e finanziamento di prodotti innovativi e media, business unit aziendali e imprese private
 
-[Leggi di piu'](http://giacomosepe.it) | [Read more](http://giacomosepe.it)
+[Leggi di piu'](http://valore-intangibile.beehiiv.com) | [Read more](http://giacomosepe.substack.com)
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
