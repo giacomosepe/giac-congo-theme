@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Supporto per imprenditori che vogliono lanciare un nuovo prodotto
 ---
 
-Carriera di Product Manager per prodotti finanziari, dopo l'MBA diventatao manager per investitori di private equity e oggi supporto piccole e medie aziende nella crescita attraverso investimenti in beni intangibili basati su tecnologia e media
+Carriera di Product Manager per prodotti finanziari, dopo l'MBA diventatato manager per investitori di private equity e oggi supporto piccole e medie aziende nella crescita attraverso investimenti in tecnologia e media
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
