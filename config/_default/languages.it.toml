@@ -9,17 +9,19 @@ title = "Giacomo Sepe"
 [params]
   dateFormat = "2 January 2006"
   # mainSections = ["section1", "section2"]
-  description = "Manager per investitori di capitale privato / Private Equity in progetti di innovazione"
+  description = "Manager specializzato nello sviluppo di aziende, business unit, e prodtti software nel portafoglio di fundi di private equity e family office"
 
 
 # THIS IS ON THE HOME PAGE
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Manager per investitori di capitale privato / Private Equity in progetti di innovazione"  
-  bio = "Supporto a investitori privati nella creazione, gestione e finanziamento del portafoglio di imprese e business unit"
+  headline = "Manager per conto di investitori privati. Sviluppo aziendale, strategie di prodotto, operations e change management" 
+
+
+  bio = "Manager specializzato nello sviluppo di aziende, business unit, e prodtti software nel portafoglio di fundi di private equity e family office"
   links = [
-    { email = "mailto:giacomo@ianuscapital.com" },
+    { email = "mailto:giacomo@giacomosepe.com" },
    # { link = "https://giacomosepe.substack.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -58,7 +60,7 @@ title = "Giacomo Sepe"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  #   { x-twitter = "https://twitter.com/username" },
+      { x-twitter = "https://twitter.com/momo_giac" },
   #   { youtube = "https://youtube.com/username" },
    ]
 

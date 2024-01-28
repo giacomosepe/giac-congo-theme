@@ -2,9 +2,9 @@
 title: Giacomo Sepe | Strategia di innovazione di prodotto per investitori privati
 ---
 
-Sviluppo, gestione e finanziamento di prodotti innovativi e media, business unit aziendali e imprese private
+Nato in Italia e formato a New York, general manager e professionista di sviluppo business, sono stato occupato nella comprensione dei metodi per fare crescere aziende e prodotti per tutta la mia vita professionale
 
-[Leggi di piu'](http://valore-intangibile.beehiiv.com) | [Read more](http://giacomosepe.substack.com)
+[Leggi i miei articoli](http://valore-intangibile.beehiiv.com) | [Read my articles](http://giacomosepe.substack.com)
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 

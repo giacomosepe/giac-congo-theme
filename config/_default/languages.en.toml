@@ -9,17 +9,17 @@ title = "Giacomo Sepe"
 [params]
   dateFormat = "2 January 2006"
   # mainSections = ["section1", "section2"]
-  description = "Giacomo Sepe is developing tools based on standardized processes that serve companies looking to connect with their client base"
+  description = "Manager specialized in grwoing portfolio companies, business units, and technology products for private equity investors and family offices"
 
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Manager for private investors on innovation development projects"
-  bio = "Supporting private investors to create, manage and finance portfolio companies, business units, and technology products"
+  headline = "Manager for private investors. Sales, product strategy, operations and change management"
+  bio = "Manager specialized in grwoing portfolio companies, business units, and technology products for private equity investors and family offices"
   
 
   links = [
-    { email = "mailto:giacomo@ianuscapital.com" },
+    { email = "mailto:giacomo@giacomosepe.com" },
   #   { link = "https://giacomosepe.substack.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -58,7 +58,7 @@ title = "Giacomo Sepe"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  #   { x-twitter = "https://twitter.com/username" },
+      { x-twitter = "https://twitter.com/momo_giac" },
   #   { youtube = "https://youtube.com/username" },
    ]
 

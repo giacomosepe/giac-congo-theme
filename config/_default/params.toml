@@ -29,7 +29,7 @@ robots = "index"
   showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = false
-  showScrollToTop = true
+  showScrollToTop = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
@@ -91,11 +91,11 @@ robots = "index"
 [author]
   name = "Giacomo Sepe"
   image = "img/profile.jpg"
-  headline = "Entrpreneur | Services for family businesses"
-  bio = "Started to build an ecosystem of services for family businesses to connect with their audience"
+  headline = "Manager | Sales, Product, Operations"
+  bio = "Work for private investors on growth of portfolio companies"
   links = [
-    { email = "mailto:giacomo@golomeo.com" },
-    { link = "https://giacomosepe.substack.com/" },
+    { email = "mailto:giacomo@giacomosepe.com" },
+    { link = "https://projects.giacomosepe.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -133,7 +133,7 @@ robots = "index"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  #   { x-twitter = "https://twitter.com/username" },
+      { x-twitter = "https://twitter.com/momo_giac" },
   #   { youtube = "https://youtube.com/username" },
       {substack = "https://giacomosepe.substack.com"}
    ]
