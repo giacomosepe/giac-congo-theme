@@ -4,7 +4,7 @@ title: Giacomo Sepe | Strategia di innovazione di prodotto per investitori priva
 
 Manager per investitori privati specializzato in strategia di innovazione e busienss development | Imprenditore che sviluppa strumenti a supporto di aziende private che vogliono crescere attraverso beni intangibili
 
-[Leggi i miei articoli](https://valore-intangibile.beehiiv.com) | [Read my articles](https://giacomosepe.substack.com)
+[Leggi i miei articoli](https://valoreintangibile.beehiiv.com) | [Read my articles](https://giacomosepe.substack.com)
 
 <!-- Negli ultimi 10 anni concentrato esclusivamente su offrire strumenti e servizi alle aziende che vogliono sviluppare asset digitali e multimediali.
 
