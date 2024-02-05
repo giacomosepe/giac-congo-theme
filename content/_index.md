@@ -2,9 +2,9 @@
 title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-Italy born and raised, US educated, technology oriented general manager and professional relationship builder and business writer, who has been focusing on learning how to grow companies for most of my life
+Manager for private investors specialized in innovation strategy and busienss development | Entrepreneur building micro service-businesses to support business owners build asset based businesses
 
-[Leggi i miei articoli](http://valore-intangibile.beehiiv.com) | [Read my articles](http://giacomosepe.substack.com)
+[Leggi i miei articoli](https://valore-intangibile.beehiiv.com) | [Read my articles](https://giacomosepe.substack.com)
 
 <!--  Manager specialized in grwoing portfolio companies, business units, and technology products for private equity investors and family offices
 
