@@ -2,7 +2,8 @@
 title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-Manager for private investors specialized in innovation strategy and busienss development | Entrepreneur building micro service-businesses to support business owners build asset based businesses
+In the past few years Giacomo has been helping shareholders create, develop or restructure digital based businesses and services.
+He is also developing services to help entrepreneurs grow through media and digital assets.
 
 [Leggi i miei articoli](https://valoreintangibile.beehiiv.com) | [Read my articles](https://giacomosepe.substack.com)
 

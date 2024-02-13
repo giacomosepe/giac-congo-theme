@@ -16,10 +16,8 @@ title = "Giacomo Sepe"
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Strategie di innovazione e sviluppo aziendale per investitori privati | Imprenditore" 
-
-
-  bio = "Manager specializzato nello sviluppo di aziende, business unit, e prodtti software nel portafoglio di fundi di private equity e family office"
+  headline = "Manager a supporto di azionisti per una corretta trasfromazione digitale" 
+  bio = "Negli ultimi anni Giacomo ha supportato aizonisti di medie imprese nel processo di creazione o rilancio di progetti imprenditoriali basati su media e digitale. Giacomo sta sviluppando alcuni servizi per aiutare nel processo di crescita"
   links = [
     { email = "mailto:giacomo@giacomosepe.com" },
    # { link = "https://giacomosepe.substack.com/" },

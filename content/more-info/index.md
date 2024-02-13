@@ -7,28 +7,42 @@ translationKey: more-info
 showPosts: false
 ---
 
-Giacomo Sepe is a manager-turned entrepreneur in 2022, with 15 years of experience at large financial institutions and with some of Italy's and Switzerland's best-known private entrepreneurs.
+Business growth can be based on a simple repeatable process most of the times. Simple, yet not an easy one.
 
-Believing that modern companies can, and probably in the future will have to, invest more in media and digital assets to create revenue, value, and possibly higher margins, Mr Sepe has begun to develop a shortlist of services and products to support small and medium-sized business entrepreneurs.
+It ultimately comes down to finding the right words.
 
-The long term vision of the project is centered on creating tools to enable entrepreneurs to:
+The better the words the better the revenue. A possible playbook for entrepreneurs:
+1 - get customer insights though the right words
+2 - state the purpose with a well crafted tagline
+3 - curate the copy of the website with clear messages and actions
+4 - use a funnel to instill curiosity and tunr it into desire. And eventually into fandom!
 
-- Improve their connection with their customer base through understanding their needs and establishing a reputation as an authority in the industry;
-- Make and sell digital and media products that are useful to the existing customer base, infinitely replicable, and have profitability potential
+Business owners who learn to adopt the right framework can repeat the process over and over for different products.
 
-The first product, which will be aimed specifically at entrepreneurs who want to create or improve their personal brand, is in the making.
-
-Currently based in Milan, Giacomo Sepe was born in Naples and trained in the United States, where he earned an MBA from Columbia University. He also worked for Merrill Lynch in London, where he was responsible for sales and support of private equity products, for Hines Real Estate and UBS Real Estate in Milan, where he was investment manager, for EQValue Private Equity in Rome, where he was investment manager, and finally for three international family offices where he was venture partner in charge of operations of some investees. The last assignment completed in 2021 was the management and sale of a small company in Milan, Cotolicious.
-
-Mr. Sepe is also fluent in Italian, Spanish, and French.
+They can turn their companies into portfolios of products and media, or intangible assets, that will scale and generate cash indefinitely.
 
 [Go to all articles on Substack](https://giacomosepe.substack.com) >> || [Go to LinkedIn profile](https://linkedin.com/in/giacomosepe) >>
 
 ![Giacomo-Sepe-Entrepreneur](Giacomo-Sepe-Entrepreneur-NoBG.png)
 
 <!--Previous text:
-Giacomo Sepe is an experienced manager turned entrepreneur in 2022, after years working with shareholders to build, digitize, and grow businesses. He is currently creating tools and solutions to help shareholders and managers of medium companies develop audience and reputation, and to build, publish and distribute digital and media assets that generate revenue and eventually increase company value.
+Most of the times business growth can be based on a simple repeatable process yet not an easy one.
 
-Italy-born, US-educated, Mr. Sepe is a business professional with a successful track record in managing projects from start to finish and bringing businesses to investors.
+It ultimately comes down to finding the right words. The better the words the better the revenue.
 
-Driven by innate intellectual curiosity and adaptability, Giacomo Sepe has developed a diverse background that spans Private equity (5 years at Hines and Eqvalue), mergers & acquisitions advisory (2.5 years at Fineurop Soditic and EQValue consulting), business development (3 years as a sales rep and partnerships manager at Merrill Lynch), and general management (6 years at Simmetrico and IPE Holding). -->
+A possible playbook for entrepreneurs:
+1 - get customer insights: finding the right words to get reliable data from the customers
+2 - state the purpose, and a tagline: finding 10-20 words the drive everything we do
+3 - publish a good website with words that show we understand the customer and inspire trust
+4 - build a sales process with messages that turn indifference into curiosity and then into desire. And eventually into fanatism!
+
+Business owners who learn to adopt the right framework can repeat the process over and over for different products and turn their companies into portfolios of products and media, or intangible assets, that will scale and generate cash indefinitely.
+
+Giacomo Sepe is a technology oriented general manager who has been focusing on growth for most of his life. Giacomo is specialized in digital transformation and media investments.
+
+He gained 6 years of experience working for family offices as general manager and business development manager.
+He worked for 10 years as product specialist in the private equity division at Merrill Lynch and UBS and as PE investment manager at Hines and at a multi family office PE firm, EQValue.
+
+MBA from Columbia Business School and BA from Bocconi University.
+
+Still writing, riding, and reading every day 🤪. -->
