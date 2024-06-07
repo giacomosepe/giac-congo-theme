@@ -16,11 +16,11 @@ title = "Giacomo Sepe"
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Manager a supporto di azionisti per una corretta trasfromazione digitale" 
+  headline = 'Sono il CEO di LemonPerks, societa holding per sviluppare aziende e divisioni aziendali "product-led"'
   bio = "Negli ultimi anni Giacomo ha supportato aizonisti di medie imprese nel processo di creazione o rilancio di progetti imprenditoriali basati su media e digitale. Giacomo sta sviluppando alcuni servizi per aiutare nel processo di crescita"
   links = [
-    { email = "mailto:giacomo@giacomosepe.com" },
-   # { link = "https://giacomosepe.substack.com/" },
+    # { email = "mailto:giacomo@giacomosepe.com" },
+   { link = "https://giacomosepe.substack.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },

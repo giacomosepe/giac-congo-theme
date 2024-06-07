@@ -2,10 +2,13 @@
 title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-In the past few years Giacomo has been helping shareholders create, develop or restructure digital based businesses and services.
-He is also developing services to help entrepreneurs grow through media and digital assets.
+Visit [LemonPerks](https://mettiladaparte.com)
 
-[Leggi i miei articoli](https://valoreintangibile.beehiiv.com) | [Read my articles](https://giacomosepe.substack.com)
+<!-- I am in the process of building an ecosystem of product-led businesses catering to Small and Medium Enterprises.
+
+I spent the past 20 years supporting business growth as both an investment manager and a CEO. I helped build and grow product led businesses and learned how to leverage intangible assets to do it more efficiently
+
+[Read my articles](https://giacomosepe.substack.com) -->
 
 <!--  Manager specialized in grwoing portfolio companies, business units, and technology products for private equity investors and family offices
 

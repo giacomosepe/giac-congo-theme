@@ -11,19 +11,15 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Entrepreneurial products"
+  name = "Active projects"
   url = "https://projects.giacomosepe.com"
-  weight = 9
+  weight = 20
 
-# [[main]]
-#   name = "More info"
-#   pageRef = "more-info"
-#   weight = 20
 
-# [[main]]
-#   name = "Work"
-#   pageRef = "work"
-#   weight = 10
+  [[main]]
+    name = "More"
+    pageRef = "more-info"
+    weight = 10
 
 # [[main]]
 #   name = "Tags"

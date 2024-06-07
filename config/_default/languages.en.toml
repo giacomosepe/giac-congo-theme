@@ -14,13 +14,13 @@ title = "Giacomo Sepe"
 [author]
   name = "Giacomo Sepe"
   image = "img/author.jpg"
-  headline = "Helping shareholder get right the digital transformation process"
-  bio = "In the past few years Giacomo has been helping shareholders create, develop or restructure digital based businesses and services"
+  headline = "I am the CEO of LemonPerks, a holding company building product-led businesses"
+  bio = "I spent the past 20 years supporting business growth as both an investment manager and a CEO. I helped build and grow product led businesses and learned how to leverage intangible assets to do it more efficiently"
   
 
   links = [
-    { email = "mailto:giacomo@giacomosepe.com" },
-  #   { link = "https://giacomosepe.substack.com/" },
+    # { email = "mailto:giacomo@giacomosepe.com" },
+    { link = "https://giacomosepe.substack.com" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },

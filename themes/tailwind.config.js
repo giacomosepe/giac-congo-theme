@@ -127,10 +127,11 @@ module.exports = {
 					},
 				},
 			}),
-		// 	fontFamily: {
-		// 		sans: ["Inter", "sans-serif", "Helvetica"],
-		// 	},
-		// },
+			// 	fontFamily: {
+			// 		sans: ["Inter", "sans-serif", "Helvetica"],
+			// 	},
+			// },
+		},
 	},
 	plugins: [require("@tailwindcss/typography")],
 };
