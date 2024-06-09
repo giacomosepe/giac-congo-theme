@@ -11,6 +11,8 @@ showPosts: false
 
 ### Per una decina di anni, associato a imprenditori e family offices, ho sviluppato imprese sostenibiii, innovative e basate su prodotti (product-led) come manager (_tradotto dall'inglese on la AI_)
 
+![Digital business](Effortless250x.png)
+
 Ho imparato come raggiungere la crescita nel modo più difficile possibile. Quando ho iniziato a lavorare come manager, ho affrontato ogni tipo di sfida:
 
 - relazioni con CEO o azionisti
@@ -45,6 +47,8 @@ I costi si sommano.
 
 La pressione sulle vendite aumenta poiché devono sostenere una base di costi più alta. Se c'è debito, devono anche pagare gli interessi.
 
+![Exhausted](Laziness.png)
+
 E con l'offerta "core" il fatturato può crescere solo fino a un certo punto. Diventa difficile trovare nuovi clienti o di dimensione più grande. Diventa difficile cambiare categoria. Il sistema economico è fatto in modo tale che i piccoli e medi imprenditori avranno sempre difficoltà a superare una soglia di fatturato intorno ai 10 milioni di euro, e ancora più difficile superare quella dei 20 milioni.
 
 È a questo punto che le aziende falliscono o fanno un salto in avanti. Questa è una fase molto delicata.
@@ -71,6 +75,7 @@ Il tuo team di vendita sarà sotto una pressione maggiore (di nuovo!). Non ti di
 **PERTANTO**
 
 Ritengo si debba percorrere una terza via. Una via che consenta da una parte di cogliere il buono della crescita, e dall'altra di limitarne le controindicazioni che ho descritto.
+![Select options](People-finder.png)
 
 La terza via:
 consiste nella costruzione di un sistema basato su molteplici flussi di entrate che completano il business "core". Ma non sono correlati ad esso.
