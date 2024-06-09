@@ -13,12 +13,12 @@
 [[main]]
   name = "Tutti i progetti"
   url = "https://projects.giacomosepe.com"
-  weight = 9
+  weight = 20
 
-# [[main]]
-#   name = "Altre info"
-#   pageRef = "altre-informazioni"
-#   weight = 20
+[[main]]
+  name = "Altre info"
+  pageRef = "altre-informazioni"
+  weight = 10
 
 # [[main]]
 #   name = "Esperienza"

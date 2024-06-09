@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Helping business owners launch new products
 ---
 
-Visit [LemonPerks](https://mettiladaparte.com)
+Visit [My business page](https://mettiladaparte.com)
 
 <!-- I am in the process of building an ecosystem of product-led businesses catering to Small and Medium Enterprises.
 

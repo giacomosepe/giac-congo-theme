@@ -2,7 +2,7 @@
 title: Giacomo Sepe | Strategia di innovazione di prodotto per investitori privati
 ---
 
-Vai a [LemonPerks](https://mettiladaparte.com)
+Vai ai [miei progetti](https://projects.giacomosepe.com)
 
 <!-- Negli ultimi anni Giacomo ha supportato aizonisti di medie imprese nel processo di creazione o rilancio di progetti e prodotti basati su media e digitale. Come imprenditore sta sviluppando servizi per supportare il processo di crescita aziendale.
 

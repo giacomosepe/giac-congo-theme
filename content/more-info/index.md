@@ -47,6 +47,8 @@ Costs pile up.
 
 The pressure on sales increases as it needs to serve a higher cost base. If there is debt it also needs to pay off interests.
 
+![Exhausted](Laziness.png)
+
 And with the core offering the revenue can only grow this much. It gets difficult to find more and bigger clients. It is difficult to change category. The system is built so that small and medium entrepreneur have a very tough time in scaling above the €10 mln revenue threshold, and even more difficult the €20mln.
 
 It is a this point that companies either fail or make a jump ahead. This is a very delicate phase.
@@ -73,12 +75,13 @@ Your sales team will be under greater pressure. You will not have fun unless thi
 **THEREFORE**
 
 I argue there is another option.
+![Select options](People-finder.png)
 
 _"The third way"_.
 
 It consists of building multiple revenue streams that complement the core business. But are not correlated to it.
 
-## Build multiple streams
+## Build multiple revenue streams
 
 ### Three categories of additional revenue streams
 
@@ -91,24 +94,33 @@ I have identified three main categories of revenue streams that can, or should, 
 
 Delivering on all these categories will guarantess exponential growth, for revenue and margins. Making entrepreneurs and investors life easier. Removing pressure from the sales team and planning for a long time.
 
-## I bring experiences in sales, analysis, automation software, and copywriting
+## Entrepreneurs who share my views partner with me
 
-Working as a manager for private equity and family offices or business owners and founders, I developed a product-led business growth strategy framework that helps shareholders increase share value.
-I rely on 25 years of experience with growing responsibilities in business development, capital raising, and business writing in English and Italian.
+### I share my experience
 
-I have developed an expertise to build multiple revenue streams in the forms of products alongside core busiensses
-<br/>
+My experiences in sales, analysis, and copywriting are valuable to entrepreneurs who want to pursue growth minimizing complexity and unpredictability.
+
+I have done it before. I take ownership of projects, and I make sure strategy is put in place properly.
+
+Working as a manager for private equity and family offices or business owners and founders, I have 25 years of experience with growing responsibilities in business development, capital raising, and business writing in English and Italian.
+
+### I share my method
+
 The better the words the better the revenue. A possible playbook for entrepreneurs:
 1 - get customer insights though the right words
 2 - state the purpose with a well crafted tagline
 3 - curate the copy of the website with clear messages and actions
 4 - use a funnel to instill curiosity and tunr it into desire. And eventually into fandom!
 
+### I help increase predictability in growth
+
+And ultimately I help save time, money, and hopefully a lot of stress.
+
 Business owners who learn to adopt the right framework can repeat the process over and over for different products.
 
-They can turn their companies into portfolios of products and media, or intangible assets, that will scale and generate cash indefinitely.
+I have created the first 3 joint ventures to build businesses with specialized partners and create wealth for shareholders and value for clients.
 
-[Go to all articles on Substack](https://giacomosepe.substack.com) >> || [Go to LinkedIn profile](https://linkedin.com/in/giacomosepe) >>
+See my projects [Here](https://projects.giacomosepe.com)
 
 ![Giacomo-Sepe-Entrepreneur](Giacomo-Sepe-Entrepreneur-NoBG.png)
 
