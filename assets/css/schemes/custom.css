@@ -45,6 +45,10 @@ nav > div > a:hover {
 	text-decoration: none;
 }
 
+.strong {
+	text-decoration: none;
+}
+
 .prose a:hover {
 	color: white;
 }

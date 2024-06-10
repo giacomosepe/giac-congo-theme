@@ -37,7 +37,7 @@ robots = "index"
   recentLimit = 5
 
 [article]
-  showDate = true
+  showDate = false
   showDateUpdated = false
   showAuthor = false
   showBreadcrumbs = false
@@ -53,7 +53,7 @@ robots = "index"
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email", "whatsapp"]
+  sharingLinks = ["twitter", "reddit", "linkedin", "facebook", "email"]
 
 [list]
   showBreadcrumbs = false
@@ -78,9 +78,10 @@ robots = "index"
   # domain = "llama.yoursite.com"
 
 [plausibleAnalytics]
-  # domain = "blog.yoursite.com"
-  # event = ""
-  # script = ""
+  domain = "giacomosepe.com"
+  event = ""
+  script = '<script defer data-domain="giacomosepe.com" src="https://plausible.io/js/script.js"></script>'
+"
 
 [verification]
   # google = ""
