@@ -79,8 +79,8 @@ robots = "index"
 
 [plausibleAnalytics]
   domain = "giacomosepe.com"
-  event = ""
-  script = 'defer data-domain="giacomosepe.com" src="https://plausible.io/js/script.js"'
+  event = "https://plausible.yoursite.com/api/event"
+  script = '"https://plausible.giacomosepe.com/js/script.js"'
 "
 
 [verification]
