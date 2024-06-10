@@ -13,11 +13,11 @@ showPosts: false
 
 ![Digital business](Effortless250x.png)
 
-I have learned how to achieve growth in the hardest possible way. When I started working as a manager I faced all kinds of challenges:
+I have learned how to achieve growth in the hardest possible way. When I started working as a manager, like most managers, I was faced with all kinds of challenges:
 
-- relationships with CEOs or shareholders
-- relationships with colleagues
-- relationship with clients
+- complex relationships with CEOs or shareholders
+- delicate relationships with colleagues
+- evolving relationships with clients
 - total lack of data to use to make decisions
 - time pressure to deliver products before they are outdated, or before its too late for clients to buy in
 - aks the right price

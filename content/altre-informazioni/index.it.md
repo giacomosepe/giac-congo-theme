@@ -9,15 +9,15 @@ showPosts: false
 
 # Sviluppo imprese basate su prodotti
 
-### Per una decina di anni, associato a imprenditori e family offices, ho sviluppato imprese sostenibiii, innovative e basate su prodotti (product-led) come manager (_tradotto dall'inglese on la AI_)
+### Per una decina di anni, associato a imprenditori e family offices, ho sviluppato imprese sostenibiii, innovative e basate su prodotti (product-led) come manager
 
 ![Digital business](Effortless250x.png)
 
-Ho imparato come raggiungere la crescita nel modo più difficile possibile. Quando ho iniziato a lavorare come manager, ho affrontato ogni tipo di sfida:
+Ho imparato come raggiungere la crescita nel modo più difficile possibile. Quando ho iniziato a lavorare come manager, come quasi tutti gli altri manager che iniziano, ho affrontato ogni tipo di sfida:
 
-- relazioni con CEO o azionisti
-- relazioni con i colleghi
-- relazione con i clienti
+- relazioni difficili con CEO o azionisti
+- relazioni delicate con i colleghi
+- relazione da costruire con i clienti
 - totale mancanza di dati da utilizzare per prendere decisioni
 - pressione temporale per consegnare i prodotti prima che diventino obsoleti, o prima che sia troppo tardi per i clienti per acquistarli
 - chiedere il giusto prezzo
