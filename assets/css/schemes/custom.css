@@ -45,8 +45,11 @@ nav > div > a:hover {
 	text-decoration: none;
 }
 
-.strong {
+p > .strong > a {
 	text-decoration: none;
+}
+.prose :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+	text-decoration: none !important;
 }
 
 .prose a:hover {

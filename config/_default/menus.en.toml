@@ -13,13 +13,18 @@
 [[main]]
   name = "Active projects"
   url = "https://projects.giacomosepe.com"
-  weight = 20
+  weight = 30
 
 
   [[main]]
     name = "More"
     pageRef = "more-info"
     weight = 10
+
+  [[main]]
+    name = "3 Ways to work with me"
+    pageRef = "3-ways-to-work-with-me"
+    weight = 20
 
 # [[main]]
 #   name = "Tags"
