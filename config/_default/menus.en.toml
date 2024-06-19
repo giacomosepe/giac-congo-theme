@@ -21,10 +21,10 @@
     pageRef = "more-info"
     weight = 10
 
-  [[main]]
-    name = "3 Ways to work with me"
-    pageRef = "3-ways-to-work-with-me"
-    weight = 20
+  # [[main]]
+  #   name = "3 Ways to work with me"
+  #   pageRef = "3-ways-to-work-with-me"
+  #   weight = 20
 
 # [[main]]
 #   name = "Tags"
