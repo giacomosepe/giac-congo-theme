@@ -2,7 +2,21 @@
 title: Giacomo Sepe | Strategia di innovazione di prodotto per investitori privati
 ---
 
-Vai ai [miei progetti](https://projects.giacomosepe.com)
+#### I clienti delle imprese B2B hanno sempre piu' bisogno di aiuto nella selezione delle soluzioni che acquistano per raggiungere i loro obbiettivi o risolvere i loro problemi. Ci sono troppe info e troppe soluzioni alternative.
+
+Secondo una ricerca di April Dunford, il 50% dei processi di vendita si interrompe per una NON decisione del compratore, che e' vittima di un sovraccarico informativo e si paralizza: "meglio nulla che sbagliare a scegliere"
+
+Allo stesso tempo uno studio di Gartner, societa' americana leader per le ricerche nel settore informatico, sostiene che il 75% dei compratori di soluzioni tecnologiche preferisce comprare senza ricorrere a un venditore umano.
+
+Nel mondo delle infinite informazioni, e' critico per le aziende comunicare bene ai potenziali clienti il proprio valore (Unique Selling Proposition) ed aiutarli a orientarsi tra le varie opzioni del mercato come una guida all'acquisto.
+
+#### Il mio lavoro consiste nel creare i testi e la strategia di prodotto per comunicare in modo chiaro ai potenziali clienti piu' adatti il valore unico (USP) del prodotto
+
+Analizzo la domanda e i clienti, e sulla base dei riscontri scrivo i testi per la pagine web, creo una strategia di prodotto efficace e costruisco i processi di automazione che consentono di comunicare su scala i contenuti piu' pertinenti.
+
+Le aziende che lavorano con spesso ottengono significativi aumento di fatturato o di generazione di cassa.
+
+Se pensi di avere bisogno di me, mettiti in contatto.
 
 <!-- Negli ultimi anni Giacomo ha supportato aizonisti di medie imprese nel processo di creazione o rilancio di progetti e prodotti basati su media e digitale. Come imprenditore sta sviluppando servizi per supportare il processo di crescita aziendale.
 
