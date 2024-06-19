@@ -6,6 +6,16 @@ translationKey: work-with-me
 
 ## 3 ways we can work together
 
+<div class="cf-cta-snippet cta167840" data-website-id="65345" data-cta-id="167840"></div>
+<script>
+if (!window.convertflow) {
+  var script = document.createElement("script"); 
+  script.async = true;
+  script.src = "https://js.convertflow.co/production/websites/65345.js"; 
+  document.body.appendChild(script); 
+};
+</script>
+
 ### _...and make some revenue_
 
 I have become fully hands on, so no strategies, plans, or powerpoints. Just real operational activities that impact revenue.
