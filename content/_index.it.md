@@ -8,15 +8,15 @@ Secondo una ricerca di April Dunford, il 50% dei processi di vendita si interrom
 
 Allo stesso tempo uno studio di Gartner, societa' americana leader per le ricerche nel settore informatico, sostiene che il 75% dei compratori di soluzioni tecnologiche preferisce comprare senza ricorrere a un venditore umano.
 
-Nel mondo delle infinite informazioni, e' critico per le aziende comunicare bene ai potenziali clienti il proprio valore (Unique Selling Proposition) ed aiutarli a orientarsi tra le varie opzioni del mercato come una guida all'acquisto.
+In un mondo con infinite informazioni disponibili, e' critico per le aziende comunicare chiaramente ai potenziali clienti il proprio valore aggiunto (Unique Selling Proposition). Uno dei metodi piu' efficaci per vendere e' aiutare i potenziali clienti a comprendere e orientarsi tra le varie opzioni come una guida all'acquisto. Questo crea allineamento tra azienda e mercato, crea fiducia e aiuta un compratore a fare la scelta giusta.
 
-### Il mio lavoro consiste nel creare i testi e la strategia di prodotto per comunicare in modo chiaro ai potenziali clienti piu' adatti il valore unico (USP) del prodotto
+### Il mio lavoro consiste nel creare i testi e la strategia di prodotto le aziende che vogliono selezionare i potenziali clienti piu' adatti e comunicare loro in modo chiaro il valore aggiunto dell'offerta
 
-Analizzo la domanda e i clienti, e sulla base dei riscontri scrivo i testi per la pagine web, creo una strategia di prodotto efficace e costruisco i processi di automazione che consentono di comunicare su scala i contenuti piu' pertinenti.
+Parendo da un'analisi del comportamento di clienti e potenziali clienti, raccolgo le loro indicazioni e sulla base dei risultati preparo una strategia di go to market, scrivo i testi per la conversione sulle pagine web, creo una strategia di prodotto e costruisco i processi di automazione che consentono di comunicare su scala i contenuti piu' pertinenti alla giusta audience (segmentazione, tagging, conversione).
 
-Le aziende che lavorano con spesso ottengono significativi aumento di fatturato o di generazione di cassa.
+Le aziende che lavorano con me spesso ottengono significativi aumento di fatturato o di generazione di cassa.
 
-Se pensi di avere bisogno di me, mettiti in contatto.
+A breve carichero' una pagina con alcuni modi in cui posso aiutare il tuo team di gestione a fare crescsere le vendite.
 
 <!-- Negli ultimi anni Giacomo ha supportato aizonisti di medie imprese nel processo di creazione o rilancio di progetti e prodotti basati su media e digitale. Come imprenditore sta sviluppando servizi per supportare il processo di crescita aziendale.
 
