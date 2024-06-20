@@ -45,6 +45,10 @@ nav > div > a:hover {
 	text-decoration: none;
 }
 
+p {
+	font-size: 16;
+}
+
 p > .strong > a {
 	text-decoration: none;
 }
@@ -54,4 +58,10 @@ p > .strong > a {
 
 .prose a:hover {
 	color: white;
+}
+
+@media screen and (max-width: 699px) {
+	p {
+		font-size: 1.1rem;
+	}
 }
