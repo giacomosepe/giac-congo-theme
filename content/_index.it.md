@@ -1,17 +1,21 @@
 ---
-title: Giacomo Sepe | Strategia di innovazione di prodotto per investitori privati
+title: Giacomo Sepe | Strategie operative per l'aumento del fatturato
 ---
 
-### I clienti delle imprese B2B hanno sempre piu' bisogno di aiuto nella selezione delle soluzioni che acquistano per raggiungere i loro obbiettivi o risolvere i loro problemi. Ci sono troppe info e troppe soluzioni alternative.
+{{< button href="/connect-now/" target="_self" >}}
+Contatta Giacomo
+{{< /button >}}
 
+<h3> I clienti delle imprese B2B hanno sempre piu' bisogno di aiuto nella selezione delle soluzioni che acquistano per raggiungere i loro obbiettivi o risolvere i loro problemi. Ci sono troppe info e troppe soluzioni alternative.
+</h3>
 Secondo una ricerca di April Dunford, il 50% dei processi di vendita si interrompe per una NON decisione del compratore, che e' vittima di un sovraccarico informativo e si paralizza: "meglio nulla che sbagliare a scegliere"
 
 Allo stesso tempo uno studio di Gartner, societa' americana leader per le ricerche nel settore informatico, sostiene che il 75% dei compratori di soluzioni tecnologiche preferisce comprare senza ricorrere a un venditore umano.
 
 In un mondo con infinite informazioni disponibili, e' critico per le aziende comunicare chiaramente ai potenziali clienti il proprio valore aggiunto (Unique Selling Proposition). Uno dei metodi piu' efficaci per vendere e' aiutare i potenziali clienti a comprendere e orientarsi tra le varie opzioni come una guida all'acquisto. Questo crea allineamento tra azienda e mercato, crea fiducia e aiuta un compratore a fare la scelta giusta.
 
-### Il mio lavoro consiste nel creare i testi e la strategia di prodotto le aziende che vogliono selezionare i potenziali clienti piu' adatti e comunicare loro in modo chiaro il valore aggiunto dell'offerta
-
+<h3> Il mio lavoro consiste nel creare i testi e la strategia di prodotto le aziende che vogliono selezionare i potenziali clienti piu' adatti e comunicare loro in modo chiaro il valore aggiunto dell'offerta
+</h3>
 Parendo da un'analisi del comportamento di clienti e potenziali clienti, raccolgo le loro indicazioni e sulla base dei risultati preparo una strategia di go to market, scrivo i testi per la conversione sulle pagine web, creo una strategia di prodotto e costruisco i processi di automazione che consentono di comunicare su scala i contenuti piu' pertinenti alla giusta audience (segmentazione, tagging, conversione).
 
 Le aziende che lavorano con me spesso ottengono significativi aumento di fatturato o di generazione di cassa.

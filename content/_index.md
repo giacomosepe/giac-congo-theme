@@ -2,7 +2,9 @@
 title: Giacomo Sepe | Accelerating sales for small and medium businesses
 ---
 
-[Find out if I can help you now](/find-out-work-with-me/)
+{{< button href="/connect-now/" target="_self" >}}
+Book a call
+{{< /button >}}
 
 ### Prospects need help in selecting the right solution for their goals. They have too much information and too many options
 

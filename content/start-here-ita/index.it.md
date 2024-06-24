@@ -1,9 +1,9 @@
 ---
-title: Altre informazioni
+title: Manifesto
 description: Prodotti digitali e servizi per PMI
 showDate: false
 showReadingTime: false
-translationKey: more-info
+translationKey: manifesto
 showPosts: false
 ---
 

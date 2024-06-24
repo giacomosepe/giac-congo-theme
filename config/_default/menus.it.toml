@@ -16,14 +16,14 @@
 #   weight = 20
 
 [[main]]
-  name = "Altre info"
-  pageRef = "altre-informazioni"
+  name = "Inizia qui"
+  pageRef = "start-here-ita"
   weight = 10
 
-# [[main]]
-#   name = "Esperienza"
-#   pageRef = "esperienza"
-#   weight = 10
+[[main]]
+  name = "Servizi professionali"
+  pageRef = "service-offering-ita"
+  weight = 20
 
 # [[main]]
 #   name = "EN"

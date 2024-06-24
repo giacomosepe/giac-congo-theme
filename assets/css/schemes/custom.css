@@ -65,3 +65,45 @@ p > .strong > a {
 		font-size: 1.1rem;
 	}
 }
+
+.vertical-form {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	max-width: 500px;
+}
+
+input,
+textarea {
+	border: solid;
+	border-width: 0.1em;
+	border-color: rgb(212, 212, 212);
+	border-radius: 0.5em;
+	min-height: 3em;
+}
+label {
+	margin-top: 1em;
+}
+
+#form-button {
+	background-color: rgba(var(--color-primary-500));
+	max-width: 20em;
+	border-radius: 0.5em;
+	text-align: left;
+	padding: 0.2em 1em;
+	color: rgb(255, 255, 255);
+	margin-top: 3em;
+	margin-bottom: 5em;
+}
+
+::placeholder {
+	padding-left: 0.8em;
+	font-size: 0.9rem;
+}
+
+button {
+	color: white;
+}
+button:hover {
+	transform: scale(1.1);
+}

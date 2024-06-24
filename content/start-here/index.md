@@ -1,9 +1,9 @@
 ---
-title: More info
+title: Manifesto
 description: Building digital products for Small and Medium Enterprises
 showDate: false
 showReadingTime: false
-translationKey: more-info
+translationKey: manifesto
 showPosts: false
 ---
 

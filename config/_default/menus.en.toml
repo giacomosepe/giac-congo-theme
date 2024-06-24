@@ -17,14 +17,14 @@
 
 
   [[main]]
-    name = "More"
-    pageRef = "more-info"
+    name = "Start here"
+    pageRef = "manifesto"
     weight = 10
 
-  # [[main]]
-  #   name = "3 Ways to work with me"
-  #   pageRef = "3-ways-to-work-with-me"
-  #   weight = 20
+  [[main]]
+    name = "Services I offer"
+    pageRef = "service-offering"
+    weight = 20
 
 [[main]]
   name = "Product studio"
