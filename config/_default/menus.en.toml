@@ -18,7 +18,7 @@
 
   [[main]]
     name = "Start here"
-    pageRef = "manifesto"
+    pageRef = "start-here"
     weight = 10
 
   [[main]]
