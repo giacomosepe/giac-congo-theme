@@ -6,7 +6,7 @@ showReadingTime: false
 
 If you are interested in boosting your revenue by developing a innovation product please say hi and let me know what you are trying to achieve. I will be in touch shortly.
 
-<form class="vertical-form" action="https://submit-form.com/tDV76DEuK">
+<form class="vertical-form" action="https://submit-form.com/tDV76DEuK" method="POST>
  <label for="name">Name *</label>
   <input type="text" id="name" name="name" placeholder="Name" required="" />
   <label for="email">Email *</label>
