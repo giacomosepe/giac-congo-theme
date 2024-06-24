@@ -13,7 +13,7 @@ If you are interested in boosting your revenue by developing a innovation produc
   <input type="email" id="email" name="email" placeholder="Email" required="" />
    <label for="Company">Company (not required)</label>
   <input type="text" id="company" name="company" placeholder="Company name" required="false" />
-  <input type="hidden" name="_redirect" value="https://giacomosepe.com/thank-you">
+  <input type="hidden" name="_redirect" value="https://giacomosepe.com/form-thank-you">
 <label for="project">Project goal *</label>
 <textarea
 id="project"
