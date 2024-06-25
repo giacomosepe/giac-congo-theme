@@ -3,10 +3,12 @@ title: Giacomo Sepe | Accelerating sales for small and medium businesses
 ---
 
 {{< button href="/connect-now/" target="_self" >}}
-Book a call
+Book a call with Giacomo
 {{< /button >}}
 
-### Prospects need help in selecting the right solution for their goals. They have too much information and too many options
+### Leveraging product positioning and copywriting to boost sales, and automation to drive profits
+
+Prospects of most industries need help in selecting the right solution for their goals. They have too much information and too many options. They drown in information and get confused about what to do. Most likely they won't do anything, research say.
 
 According to a research from April Dunford, 50% of sales are lost not to competitors but to **no action** from the prospect due to info orverload - _"not knowing what to do, they do nothing"_.
 
