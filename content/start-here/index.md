@@ -36,7 +36,7 @@ My job is to make sure companies that work with me pursue this strategy successf
 
 ## Growing a company, especially a service company, can be brutal
 
-{#
+<!--
 
 ### Kick off, great start. Life is great!
 
@@ -55,9 +55,10 @@ The pressure on sales increases as it needs to serve a higher cost base. If ther
 
 And with the core offering the revenue can only grow this much. It gets difficult to find more and bigger clients. It is difficult to change category. The system is built so that small and medium entrepreneur have a very tough time in scaling above the €10 mln revenue threshold, and even more difficult the €20mln.
 
-It is a this point that companies either fail or make a jump ahead. This is a very delicate phase. #}
+It is a this point that companies either fail or make a jump ahead. This is a very delicate phase.
+-->
 
-### What are your options now?
+### What are the main option to grow sales?
 
 There are really two big alternatives:
 
