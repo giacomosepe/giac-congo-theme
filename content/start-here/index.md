@@ -7,7 +7,7 @@ translationKey: manifesto
 showPosts: false
 ---
 
-# I am running up a sales and communication one person business
+# I am running a sales and communication one person business
 
 ### For over a decade I have been partnering with business owners and investors to build a product-led, sustainable, and disruptive businesses
 
