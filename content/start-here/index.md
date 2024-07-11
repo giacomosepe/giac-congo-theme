@@ -7,9 +7,11 @@ translationKey: manifesto
 showPosts: false
 ---
 
-# I develop wonderful businesses
+# I am running up a sales and communication one person business
 
 ### For over a decade I have been partnering with business owners and investors to build a product-led, sustainable, and disruptive businesses
+
+I am a strong believer of building sales engines that are able to create processes, messaging, and automation that work towards scaling sales exponentially over the long run.
 
 ![Digital business](Effortless250x.png)
 
@@ -22,17 +24,19 @@ I have learned how to achieve growth in the hardest possible way. When I started
 - time pressure to deliver products before they are outdated, or before its too late for clients to buy in
 - aks the right price
 
-I also realized that when you start to be successful the job becomes exciting, new opportunites show up, people are happy, and everything seems to work as easy as a Sunday night dinner with friends.
+Building a sales engine has many advantages and serveral challenges.
+I am applying the most succesfull frameworks that help some companies grow sales exponentially.
+I rely on 3 pillars:
 
-Growing businesses is rewarding. Making money is nice. It builds confidence and removes stress.
+- Processes
+- Product content and messaging
+- Software automation
 
-So much so, that I started wondering if there was a way to streamline growth success and make it predictable. Or at least overcome complete unpredictability and random results. Turns out that there are some behaviours and strategies that can help us in turning business growth into a more predictable (ad)venture.
-
-So how can we turn an adventure seemingly upredictable by nature into a predictable venture? Is it really likley, or even possible, to be able to predict growth and eliminate the stress while increasing revenue and headcount?
-
-I bought in the idea that the media era in which we live allow us to do it with a good approximation. My job is to make sure companies that work with me pursue this strategy successfully.
+My job is to make sure companies that work with me pursue this strategy successfully.
 
 ## Growing a company, especially a service company, can be brutal
+
+{#
 
 ### Kick off, great start. Life is great!
 
@@ -51,7 +55,7 @@ The pressure on sales increases as it needs to serve a higher cost base. If ther
 
 And with the core offering the revenue can only grow this much. It gets difficult to find more and bigger clients. It is difficult to change category. The system is built so that small and medium entrepreneur have a very tough time in scaling above the €10 mln revenue threshold, and even more difficult the €20mln.
 
-It is a this point that companies either fail or make a jump ahead. This is a very delicate phase.
+It is a this point that companies either fail or make a jump ahead. This is a very delicate phase. #}
 
 ### What are your options now?
 
