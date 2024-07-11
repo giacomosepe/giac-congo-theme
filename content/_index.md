@@ -6,23 +6,30 @@ title: Giacomo Sepe | Accelerating sales for small and medium businesses
 Book a call with Giacomo
 {{< /button >}}
 
-### Leveraging product positioning and copywriting to boost sales, and automation to drive profits
+### Supporting entrepreneurs and marketing managers build sales strategies and communications
 
-Prospects of most industries need help in selecting the right solution for their goals. They have too much information and too many options. They drown in information and get confused about what to do. Most likely they won't do anything, research say.
+It's a demand driven world. Options for buyers are virtually endless. This often creates confusion and eventually inaction in buyers.
 
-According to a research from April Dunford, 50% of sales are lost not to competitors but to **no action** from the prospect due to info orverload - _"not knowing what to do, they do nothing"_.
+According to a research from April Dunford, 50% of sales are lost not to competitors but to **no action** from the buyer due to info orverload - _"not knowing what to do, they do nothing"_.
 
-At the same time according to Gartner, 75% of small and medium businesses owners prefer to buy with no involvement of a salesperson.
+At the same time the demand driven world is also flooded with information. Every buyer can learn any topic if they want to.
+According to Gartner, 75% of small and medium businesses owners prefer to buy with no involvement of a salesperson.
 
 In a world of infinite information, companies need deep and informed connections with their clients to help them understand what solution would help them best reach their goals / solve their problems.
 
-So, sales acceleration and revenue intelligence software is exploding. Most efficient companies understand that they need very clear messages to guide their clients towards a purchase and leverage the power of tools like Clay, Apollo, Gong, or even Sales Navigator.
+This is also an opportunity for companies that are able to help buyers ... buy! Helping chosing a solution is becoming an effective sales strategy.
 
 ### My job is to make sure companies succeed at conveying their Unique Value Propostion to the right prospects so that it's easier for them to ... buy!
 
-I write sales copy for web sales pages and presentations that will consistently turn more leads into clients, I support companies as they build processes that will allow sales, product marketing and customer support to be better connected, and I create compelling product strategies focused on customers needs.
+I help with sales documentation, sales process, and software automation setup.
 
-Companies that worked with me in the past often achieved a significant boost in either revenue or cash generation. If you believe you can benefit from working with me, reach out now.
+Sales copy for web sales pages and presentations that will consistently turn more leads into clients. Companies will be able to build a sales engine by creating 3 pillars:
+
+- Processes
+- Product Content
+- Automation
+
+My job is to build a system that allows managers to recognize buyers personas, that sends the right messages at each stage of the purchasing process, and that leverages the automation capabilities of modern sales enablment software.
 
 [Find out if I can help you here:](https://giacomosepe.substack.com)
 
