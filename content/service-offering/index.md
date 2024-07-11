@@ -5,12 +5,15 @@ showReadingTime: false
 showTitle: true
 ---
 
-{# {{<lead>}} Business is changing fast. We live in a demand dominated world. Building products, physical and digital, became much easier, and therefore almost every market is flooded with options.
+<!--
+
+{{<lead>}} Business is changing fast. We live in a demand dominated world. Building products, physical and digital, became much easier, and therefore almost every market is flooded with options.
 
 Prospects have access to every possible information. Before they buy anything, they can gather enough information to become an expert.
-{{</lead>}}
+{{</lead>}} -->
+
 {{< button href="/connect-now" target="_self" >}}
-Book a call with Giacomo{{< /button >}} #}
+Book a call with Giacomo{{< /button >}}
 
 Very recently, I experienced how much this is a demand driven world. I need a corkscrew... I wanted to buy a simple, no brainer corkscrew for opening wine bottles. Easy, I thought.
 
